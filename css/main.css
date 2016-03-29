@@ -112,7 +112,7 @@ header a{
   width: 25%;
   border: 2px solid #333;
   display: inline-block;
-  margin: 30px 2% 30px 2%;
+  margin: 2% 2%;
   padding: 15px 20px;
 }
 
@@ -229,3 +229,15 @@ header a{
    height: 100%;
 
  }
+
+ #comments{
+   height: 50px;
+   width:1000px;
+   text-align:center;
+ }
+
+ #form{
+   text-align:center;
+   background-color: red;
+   width: 100%
+  }
